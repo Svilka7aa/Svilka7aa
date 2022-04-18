@@ -1,0 +1,3 @@
+...
+
+print(input("Enter text: ").replace(" ", "_").lower())

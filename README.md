@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Svilen Petrov
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Django
 - 📫 How to reach me svilen_petrov@yahoo.com
